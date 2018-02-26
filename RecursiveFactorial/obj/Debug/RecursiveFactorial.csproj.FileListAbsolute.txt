@@ -1,1 +1,6 @@
 C:\WorkSpace\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe.config
+C:\WorkSpace\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+C:\WorkSpace\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+C:\WorkSpace\Lesson01\RecursiveFactorial\obj\Debug\RecursiveFactorial.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Lesson01\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+C:\WorkSpace\Lesson01\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb
