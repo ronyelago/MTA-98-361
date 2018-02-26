@@ -1,0 +1,1 @@
+C:\WorkSpace\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe.config
